@@ -17,15 +17,15 @@ endif
 
 let g:colors_name='off'
 
-let s:black           = { "gui": "#212121", "cterm": "0"   }
+let s:black           = { "gui": "#282828", "cterm": "0"   }
 let s:medium_gray     = { "gui": "#767676", "cterm": "243" }
 let s:white           = { "gui": "#F1F1F1", "cterm": "15"  }
-let s:actual_white    = { "gui": "#FFFFFF", "cterm": "231" }
-let s:light_black     = { "gui": "#424242", "cterm": "8"   }
+let s:actual_white    = { "gui": "#fbf1c7", "cterm": "231" }
+let s:light_black     = { "gui": "#3c3836", "cterm": "8"   }
 let s:lighter_black   = { "gui": "#545454", "cterm": "240" }
 let s:subtle_black    = { "gui": "#303030", "cterm": "236" }
 let s:light_gray      = { "gui": "#B2B2B2", "cterm": "249" }
-let s:lighter_gray    = { "gui": "#C6C6C6", "cterm": "251" }
+let s:lighter_gray    = { "gui": "#ebdbb2", "cterm": "251" }
 let s:pink            = { "gui": "#fb007a", "cterm": "9"   }
 let s:dark_red        = { "gui": "#C30771", "cterm": "1"   }
 let s:light_red       = { "gui": "#E32791", "cterm": "1"   }

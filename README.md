@@ -1,5 +1,6 @@
 # vim-colors-off
 
+*This fork only changes background and foreground colors to values taken from gruvbox color palette.*
 *This is very much a work in progress*
 
 For a number of weeks, I ran vim with `syntax off`. It was quite nice, 
